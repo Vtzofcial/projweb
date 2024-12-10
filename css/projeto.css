@@ -1,0 +1,10 @@
+.cont{
+text-align: center;
+
+}
+.barra1{
+    background-color: #308409;
+    width: 300px;
+    height: 5px;
+    margin: 0 auto;  
+}

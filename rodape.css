@@ -1,0 +1,52 @@
+footer{
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 0;
+    justify-content: center;
+}
+
+.cont1 h3{  
+    margin: 0;
+    font-size: 1.5em;
+    text-align: center;
+}
+.line{
+    width: 150px;
+    height: 3px;
+    background-color: white;
+    margin: 8px auto;
+}
+.cont1 p{
+    margin: 10px 0;
+    font-size: 1em;
+    line-height: 1.5;
+}
+.social{
+    margin: 10px 0;
+}
+.social a{
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+.bott{
+    margin-top: 30px;
+    font-size: 0.8em;
+    background-color: #308409;
+    padding:  18px 0;
+
+}
+.hom {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.hom a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1em;
+    transition: color 0.3s;
+}
