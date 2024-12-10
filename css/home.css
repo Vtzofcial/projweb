@@ -282,6 +282,7 @@ footer{
     color: #ffffff;
     background-color: aquamarine;
     display: flex;
+    padding: 8%;
 }
 .qua{
     background-color: #e0e5e5;
