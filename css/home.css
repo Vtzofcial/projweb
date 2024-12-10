@@ -276,7 +276,13 @@ footer{
 }
 .aboutt{
     background-image: url(../img/about-bg.jpg);
+    background-repeat: no-repeat;
     width: 100vw;
     height: 100vh;
+    color: #ffffff;
     background-color: aquamarine;
+    display: flex;
+}
+.qua{
+    background-color: #e0e5e5;
 }
