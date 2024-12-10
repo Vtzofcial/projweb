@@ -274,3 +274,9 @@ footer{
     display: flex;
     flex-direction: column;
 }
+.aboutt{
+    background-image: url(../img/about-bg.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-color: aquamarine;
+}
