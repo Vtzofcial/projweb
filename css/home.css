@@ -83,8 +83,13 @@ button:hover {
 }
 
 .fl1 {
-    padding: 5px;
+ 
+    height: 262px;
+    /* padding: 5px 5px 7px 15px; */
+    padding-bottom: 0;
+    margin: 10px 20px 0 10px;
 }
+
 
 .our {
     display: flex;
@@ -280,10 +285,51 @@ footer{
     width: 100vw;
     height: 100vh;
     color: #ffffff;
-    background-color: aquamarine;
     display: flex;
     padding: 8%;
 }
 .qua{
     background-color: #e0e5e5;
+    font-size: 32px;
+    width: 400px;
+    color: black;
+    text-align: center;
 }
+}
+
+.cont{
+    text-align: center;
+    justify-content: center;
+    
+    }
+    .barra1{
+        background-color: #308409;
+        width: 300px;
+        height: 5px;
+        margin: 0 auto;  
+    }
+    .cont2{
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        grid-template-columns: 0fr 0fr 0fr;
+        
+    }
+    .fig{
+        box-shadow: 1px 1px 10px;
+        
+
+    }
+    figcaption{
+        padding: 10px;
+    }
+    footer{
+        width: 100vw;
+        position: absolute;
+        right: -56px;
+        top: 608px;
+     }
+     .galeria{
+        width: 100vw;
+        margin: 0 0 0 30px;
+     }
