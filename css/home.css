@@ -282,7 +282,7 @@ footer{
 .aboutt{
     background-image: url(../img/about-bg.jpg);
     background-repeat: no-repeat;
-    width: 100vw;
+    width: 81vw;
     height: 100vh;
     color: #ffffff;
     display: flex;
@@ -294,8 +294,13 @@ footer{
     width: 400px;
     color: black;
     text-align: center;
+    height: 10%;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-}
+
 
 .cont{
     text-align: center;
@@ -333,3 +338,33 @@ footer{
         width: 100vw;
         margin: 0 0 0 30px;
      }
+     a {
+        text-decoration: none;
+     }
+     .btn5{
+        background-color: #e0e5e5;
+        width: 126px;
+        height: 50px;
+        margin-bottom: 25px;
+        margin-right: 2px;
+        font-size: 14px;
+        color: black;
+        cursor: pointer;
+        border-radius: 5px;
+        border: none;
+        margin-left: 10px;
+        margin-top: 50px;
+}
+    .abtl{
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+
+    }
+    .barra2{
+        background-color: white;
+    width: 140px;
+    position: absolute;
+    left: 80%;
+    top: 140%;
+    }
