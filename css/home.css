@@ -363,8 +363,42 @@ footer{
     }
     .barra2{
         background-color: white;
-    width: 140px;
-    position: absolute;
-    left: 80%;
-    top: 140%;
+        width: 196px;
+        position: relative;
+        left: 31%;
+        margin: 0 auto;
+        height: 5px;
+        margin-top: -15px;
+    }
+    
+.contt2{
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+    
+    }
+    .barra11{
+        background-color: #308409;
+        width: 300px;
+        height: 5px;
+        margin: 0 auto;  
+    }
+    .cont22{
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        grid-template-columns: 0fr 0fr 0fr;
+        margin-bottom: 70px;
+    }
+    .fig{
+        box-shadow: 1px 1px 10px;
+        
+
+    }
+    figcaption{
+        padding: 10px;
+    }
+    body{
+        height: 100%;
+        width: 100%;
     }
