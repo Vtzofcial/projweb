@@ -362,7 +362,7 @@ footer{
 
     }
     .barra2{
-        background-color: white;
+        background-color: #ffffff;
         width: 196px;
         position: relative;
         left: 31%;
@@ -402,3 +402,8 @@ footer{
         height: 100%;
         width: 100%;
     }
+    
+    a :hover #hom{
+        color: #308409;
+    }
+    
